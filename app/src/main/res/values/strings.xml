@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClientContacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reload">Reload</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pr_address_webservice">pr_address_webservice</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Ip Address Web Service">
+        <EditTextPreference
+            android:defaultValue="192.168.1.2"
+            android:key="pr_address_webservice"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Set IP Address WebService" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
